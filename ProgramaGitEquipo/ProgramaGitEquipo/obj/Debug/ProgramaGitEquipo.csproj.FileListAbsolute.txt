@@ -1,0 +1,7 @@
+C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\bin\Debug\ProgramaGitEquipo.exe
+C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\bin\Debug\ProgramaGitEquipo.pdb
+C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.csprojResolveAssemblyReference.cache
+C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.MainForm.resources
+C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.csproj.GenerateResource.Cache
+C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.exe
+C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.pdb
