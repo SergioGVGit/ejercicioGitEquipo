@@ -5,3 +5,11 @@ C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\
 C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.csproj.GenerateResource.Cache
 C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.exe
 C:\Users\Moni2\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.pdb
+C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\bin\Debug\ProgramaGitEquipo.exe
+C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\bin\Debug\ProgramaGitEquipo.pdb
+C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.csprojResolveAssemblyReference.cache
+C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.MainForm.resources
+C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.Menu_principal.resources
+C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.csproj.GenerateResource.Cache
+C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.exe
+C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.pdb
