@@ -31,7 +31,8 @@ namespace ProgramaGitEquipo
 		void BtnConversionClick(object sender, EventArgs e)
 		{
 			
-            MessageBox.Show("Aquí se abrirá el programa de conversión de monedas.");
+            Conversion formulario = new Conversion();
+    		formulario.ShowDialog();
 		}
 		void BtnDistanciaClick(object sender, EventArgs e)
 		{

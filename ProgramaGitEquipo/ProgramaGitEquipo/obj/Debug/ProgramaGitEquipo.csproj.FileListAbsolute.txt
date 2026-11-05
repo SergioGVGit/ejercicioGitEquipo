@@ -13,3 +13,4 @@ C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\
 C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.csproj.GenerateResource.Cache
 C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.exe
 C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.pdb
+C:\Users\jaime\ejercicioGitEquipo\ProgramaGitEquipo\ProgramaGitEquipo\obj\Debug\ProgramaGitEquipo.Conversion.resources
